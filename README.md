@@ -48,12 +48,6 @@
 
 ---
 
-## 🧠 Author
-
-**Jack**  
-[LinkedIn](#) | [Twitter](#) | [BuyMeACoffee](#)
-
----
 
 ## 📜 License
 
